@@ -17,6 +17,10 @@ Sticker on the box says "GDTech WiFi Mini Plug, S..a and Goolge Home (3Pack)"
 
 4 of 4 flashed Tasmota 9.2.0 with Tuya Convert OTA, no issue. 
 
+On 13 June 2021, the above template did not work, but the one for a similar plug did work:
+template: '{"NAME":"GDTech Model: MPV2RO-US","GPIO":[320,0,0,0,0,0,0,0,0,32,0,224,0,0],"FLAG":0,"BASE":18}'
+although it was marked on the plug as MPV2RQ-US.
+
 
 
 
